@@ -1,4 +1,6 @@
 # WHOIS Domain Checker
+![WHOIS](https://github.com/user-attachments/assets/f720bc1f-38ee-4530-ab7f-d9e8252267ba)
+
 
 A simple browser extension that allows users to check WHOIS information and IP addresses for the current active tab's domain. The extension automatically fetches the domain name from the active tab and provides detailed WHOIS information in a popup.
 Features
