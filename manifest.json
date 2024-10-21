@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "WHOIS Domain Checker",
+    "version": "1.0",
+    "description": "Check WHOIS information for domains quickly.",
+    "permissions": [
+      "activeTab",
+      "tabs",
+      "storage",
+      "https://*/*"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+   
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
